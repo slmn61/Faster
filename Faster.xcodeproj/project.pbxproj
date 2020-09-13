@@ -16,6 +16,7 @@
 		965D3DCC250B0BC8000F6241 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 965D3DCA250B0BC8000F6241 /* LaunchScreen.storyboard */; };
 		965D3DD7250B0BC8000F6241 /* FasterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 965D3DD6250B0BC8000F6241 /* FasterTests.swift */; };
 		965D3DE2250B0BC8000F6241 /* FasterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 965D3DE1250B0BC8000F6241 /* FasterUITests.swift */; };
+		968290C1250E65AD005EE9A9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 968290C0250E65AD005EE9A9 /* README.md */; };
 		C753D3C133912E5CC20C5425 /* Pods_Faster.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C4B3B3D9A8D71F7F4A0A8FA /* Pods_Faster.framework */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +55,7 @@
 		965D3DDD250B0BC8000F6241 /* FasterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FasterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		965D3DE1250B0BC8000F6241 /* FasterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FasterUITests.swift; sourceTree = "<group>"; };
 		965D3DE3250B0BC8000F6241 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		968290C0250E65AD005EE9A9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BA1A932137520049591A5F27 /* Pods-Faster.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Faster.release.xcconfig"; path = "Target Support Files/Pods-Faster/Pods-Faster.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -95,6 +97,7 @@
 		965D3DB3250B0BC6000F6241 = {
 			isa = PBXGroup;
 			children = (
+				968290C0250E65AD005EE9A9 /* README.md */,
 				965D3DBE250B0BC6000F6241 /* Faster */,
 				965D3DD5250B0BC8000F6241 /* FasterTests */,
 				965D3DE0250B0BC8000F6241 /* FasterUITests */,
@@ -263,6 +266,7 @@
 			files = (
 				965D3DCC250B0BC8000F6241 /* LaunchScreen.storyboard in Resources */,
 				965D3DC9250B0BC8000F6241 /* Assets.xcassets in Resources */,
+				968290C1250E65AD005EE9A9 /* README.md in Resources */,
 				96513B35250DD51200A0C102 /* alarm_sound.mp3 in Resources */,
 				965D3DC7250B0BC6000F6241 /* Main.storyboard in Resources */,
 			);
